@@ -19,10 +19,10 @@ const createTheme = ({ darkMode }) =>
     palette: {
       type: darkMode ? "dark" : "light",
       primary: {
-        main: darkMode ? "#ffb442" : "#e46300",
+        main: darkMode ? "#ff005d" : "#e46300",
       },
       secondary: {
-        main: darkMode ? "#ffb442" : "#e46300",
+        main: darkMode ? "#ff005d" : "#e46300",
       },
     },
     props: {

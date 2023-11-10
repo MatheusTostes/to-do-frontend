@@ -15,3 +15,6 @@
 npm install
 npm run dev
 ```
+
+email: admin@todo.com
+pass: admin
